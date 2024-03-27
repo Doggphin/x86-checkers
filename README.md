@@ -12,7 +12,7 @@ Controls:
  - While a checker is selected, rotate between possible moves using A and D.
  - Press E to move the checker and Q to cancel.
 
-To compile using DOSBox and MASM 8086:
+To compile and run using DOSBox and MASM 8086:
 ```
 MASM PRJCTGAM.ASM
 MASM PRJCTCHK.ASM
@@ -21,10 +21,7 @@ MASM PRJCTGFX.ASM
 MASM PRJCTUI.ASM
 LINK PRJCTGAM.ASM PRJCTCHK.ASM PRJCTDRW.ASM PRJCTGFX.ASM PRJCTUI.ASM
 PRJCTGAM
-```
 
-To run in DOSBOX:
-```
 PRJCTGAM
 ```
 
