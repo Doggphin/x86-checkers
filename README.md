@@ -1,7 +1,10 @@
 # x86-checkers
 
-My final project for Computer Architecture during May 2022.
-This game implements an 8 and 16-bit sprite renderer with 2-bit color palettes to simulate a game of checkers.
+My final project for my Computer Architecture class during May 2022 at FRCC.
+
+For my project, I created an 8 and 16-bit sprite renderer with 2-bit color palettes to simulate a game of checkers in x86 Assembly. It takes input from the user and renders the game state in real time.
+
+## Instructions:
 
 Controls:
  - Move the selected tile using WASD.
@@ -9,9 +12,7 @@ Controls:
  - While a checker is selected, rotate between possible moves using A and D.
  - Press E to move the checker and Q to cancel.
 
-[](Screenshot_1.png)
-To compile with DOSBox and MASM, use:
-
+To compile using DOSBox and MASM 8086:
 ```
 MASM PRJCTGAM.ASM
 MASM PRJCTCHK.ASM
@@ -22,7 +23,17 @@ LINK PRJCTGAM.ASM PRJCTCHK.ASM PRJCTDRW.ASM PRJCTGFX.ASM PRJCTUI.ASM
 PRJCTGAM
 ```
 
-To run:
+To run in DOSBOX:
 ```
 PRJCTGAM
 ```
+
+## Screenshots:
+### Beginning game state
+![Test](Screenshot_1.png)
+### Move highligting
+![Test](Screenshot_2.png)
+### Upgrading pieces and backwards movement
+![Test](Screenshot_3.png)
+### Optional recursive jumping
+![Test](Screenshot_4.png)
