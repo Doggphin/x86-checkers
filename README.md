@@ -1,6 +1,6 @@
 # x86-checkers
 
-My final project for my Computer Architecture class during May 2022 at FRCC.
+My final project for my Computer Architecture class made in May 2022 at FRCC.
 
 For my project, I created an 8 and 16-bit sprite renderer with 2-bit color palettes to simulate a game of checkers in x86 Assembly. It takes input from the user and renders the game state in real time.
 
