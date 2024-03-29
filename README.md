@@ -1,4 +1,4 @@
-# x86-checkers
+# Checkers in x86 Assembly
 
 My final project for my Computer Architecture class made in May 2022 at FRCC.
 
