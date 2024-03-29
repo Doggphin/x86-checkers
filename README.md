@@ -30,10 +30,10 @@ PRJCTGAM
 
 ## Screenshots:
 ### Beginning game state
-![Test](Screenshot_1.png)
+![Test](visuals/Screenshot_1.png)
 ### Move highligting
-![Test](Screenshot_2.png)
+![Test](visuals/Screenshot_2.png)
 ### Upgrading pieces and backwards movement
-![Test](Screenshot_3.png)
+![Test](visuals/Screenshot_3.png)
 ### Optional recursive jumping
-![Test](Screenshot_4.png)
+![Test](visuals/Screenshot_4.png)
