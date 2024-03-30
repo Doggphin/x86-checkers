@@ -28,7 +28,7 @@ CHECKERS
 ## Screenshots:
 ### Beginning game state
 ![Test](visuals/Screenshot_1.png)
-### Move highligting
+### Move highlighting
 ![Test](visuals/Screenshot_2.png)
 ### Upgrading pieces and backwards movement
 ![Test](visuals/Screenshot_3.png)
