@@ -4,7 +4,7 @@ My final project for my Computer Architecture class made in May 2022 at FRCC.
 
 For my project, I created an 8 and 16-bit sprite renderer with 2-bit color palettes to simulate a game of checkers in x86 Assembly. It takes input from the user and renders the game state in real time.
 
-## Instructions:
+## Instructions
 
 Controls:
  - Move the selected tile using WASD.
@@ -25,7 +25,9 @@ CHECKERS
 CHECKERS
 ```
 
-## Screenshots:
+## Visuals
+[Video](https://www.youtube.com/watch?v=Ijs1wR-8mro)
+
 ### Beginning game state
 ![Test](visuals/Screenshot_1.png)
 ### Move highlighting
